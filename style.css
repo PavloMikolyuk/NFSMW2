@@ -1,0 +1,23 @@
+.left {
+    text-align: left;
+}
+
+body {
+    background-color: #FCDA19;
+    font-family: sans-serif;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.margin {
+    margin: 3px;
+}
